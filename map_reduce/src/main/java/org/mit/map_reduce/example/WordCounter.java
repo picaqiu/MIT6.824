@@ -1,4 +1,4 @@
-package org.mit.map_reduce;
+package org.mit.map_reduce.example;
 
 import java.util.*;
 import java.util.function.Function;
